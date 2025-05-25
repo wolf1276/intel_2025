@@ -1,1 +1,2 @@
-Intel hackathon 2025 repo
+Intel hackathon 2025 repository
+
